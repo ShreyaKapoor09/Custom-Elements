@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "web-component"
+    }
+  },
+  "defaultProject": "web-component",
+  "cli": {
+    "analytics": false
+  }
 }
